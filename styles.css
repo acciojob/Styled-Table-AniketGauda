@@ -1,1 +1,16 @@
 /* your code */
+*{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+#th{
+    background-color: navy;
+    color: white;
+}
+
+.gr{
+    background-color: gray;
+    border-radius: 2px;
+}
